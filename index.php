@@ -36,7 +36,7 @@
       <header>
         <h2>About</h2>
       </header>
-      <p>I am a UX/UI design professional who has worked with the Web since 2001. I've been designing large scale web-based financial applications for over 7 years while working for a New York based financial technology vendor. This experience has allowed me to work on projects in various capacities including content analysis, workflow analysis, information architecture, information design, interaction design and implementation. Look around, and
+      <p>I am a UX/UI design professional who has worked with the Web since 2001. I&quot;ve been designing large scale web-based financial applications for over 7 years while working for a New York based financial technology vendor. This experience has allowed me to work on projects in various capacities including content analysis, workflow analysis, information architecture, information design, interaction design and implementation. Look around, and
         <mark><a class="contact">contact me</a></mark>
         if you are interested in discussing your project further.</p>
       <dl>
