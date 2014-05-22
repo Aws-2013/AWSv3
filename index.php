@@ -87,8 +87,8 @@
     </section>
     <?php //end expertise section?>
     <section class="marketing">
-      <h3>How engaging is your web presence? <strong>Make an impact</strong> Don't be left out in the cold</h3>
-      <img src="images/marketing-message.png" alt="How Engaging Is Your Web Presence? Make An Impact Don't Be Left Out In The Cold"> </section>
+      <h3>How engaging is your web presence? <strong>Make an impact</strong> Don&quot;t be left out in the cold</h3>
+      <img src="images/marketing-message.png" alt="How Engaging Is Your Web Presence? Make An Impact Don&quot;t Be Left Out In The Cold"> </section>
     <?php //end marketing?>
     <section class="portfolio">
       <?php ?>
@@ -125,7 +125,7 @@
     <footer>
       <div id="sharethis">
         <p>Share this website</p>
-        <span class='st_facebook_large' displayText='Facebook'></span> <span class='st_twitter_large' displayText='Tweet'></span> <span class='st_linkedin_large' displayText='LinkedIn'></span> <span class='st_email_large' displayText='Email'></span> </div>
+        <span class="st_facebook_large" displayText="Facebook"></span> <span class="st_twitter_large" displayText="Tweet"></span> <span class="st_linkedin_large" displayText="LinkedIn"></span> <span class="st_email_large" displayText="Email"></span> </div>
       <div class="copyright"> &copy; <?php echo date("Y"); ?> Arctic Web Solutions </div>
     </footer>
   </div>
